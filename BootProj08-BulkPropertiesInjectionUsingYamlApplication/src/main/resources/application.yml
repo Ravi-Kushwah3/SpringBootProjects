@@ -1,0 +1,29 @@
+#spring.application.name=BootProj08-BulkPropertiesInjectionUsingYamlApplication
+ #Details
+ com:
+   org:
+     aurus:
+       id: 101
+       name: Aurus
+       addrs: Pune
+       type: corporate
+
+     company:
+       id: 102
+       name: Aurus Tech
+       addrs: Pune
+       type: corporate
+
+     ename: Rahul
+     eaddrs: Mumbai
+     nick-Names:
+       - chotu
+       - chintu
+       - banty
+     phone-Numbers:
+       - 756321498
+       - 789654
+       - 32569874
+       - 3249516
+
+
